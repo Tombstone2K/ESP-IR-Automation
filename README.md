@@ -12,7 +12,7 @@ This code is designed for deployment on an ESP-32-based system equipped with a t
 ## Companion APP
 
 The companion app is responsible for serving the 24 hour graphs, adding rules and directly controlling the IP appliances.
-More info here : _Link_
+More info here : [_ESP-IR-Companion-App_](https://github.com/Tombstone2K/ESP-IR-Companion-App)
 
 ## Getting Started
 
