@@ -18,7 +18,7 @@ More info here : [_ESP-IR-Companion-App_](https://github.com/Tombstone2K/ESP-IR-
 
 ### Schematic
 
-![esp_breaboard_connections_bb_latest](https://github.com/Tombstone2K/ESP-IR-Automation/assets/74809929/c52c87e1-4b34-4f9d-9d66-2d2926f47925)
+![esp_breaboard_connections_bb_latest](https://github.com/Tombstone2K/ESP-IR-Automation/assets/74809929/923b64b5-3319-4785-87f5-0d141a7f0aa8)
 
 ### Extract IR Codes
 
