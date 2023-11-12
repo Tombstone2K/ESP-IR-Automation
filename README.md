@@ -20,6 +20,10 @@ More info here : [_ESP-IR-Companion-App_](https://github.com/Tombstone2K/ESP-IR-
 
 ![esp_breaboard_connections_bb_latest](https://github.com/Tombstone2K/ESP-IR-Automation/assets/74809929/c52c87e1-4b34-4f9d-9d66-2d2926f47925)
 
+### Extract IR Codes
+
+Extract IR Codes of various appliances using [_this code_](https://github.com/Tombstone2K/Get-IR-Codes-Arduino/)
+
 ### Installation
 
 Clone the repository and upload to the ESP-32 through PlatformIO on VSCode
